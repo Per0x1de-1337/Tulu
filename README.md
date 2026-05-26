@@ -1,5 +1,5 @@
 # Tulu🎙️
-
+ 
 ![Tulu dashboard](assets/screenshot.jpg)
 
 **Full-duplex voice agent** - talk to an AI in real time, interrupt it mid-sentence, and get responses in ~900ms.
